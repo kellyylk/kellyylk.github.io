@@ -1,0 +1,206 @@
+body {
+background-color: #ffffff;
+}
+
+p {
+	font-family: Helvetica-Light;
+	font-size: 12pt;
+	padding-bottom: 100pt;
+	position: absolute;
+    line-height: 1.3;
+}
+
+.vid {
+    margin-left: 100pt;
+    margin-top: 1545pt;
+    position: absolute;
+}
+
+img.comic {
+	width: 350pt;
+	margin-top: 940pt;
+	margin-left: 120pt;
+	position: absolute;
+}
+
+img.af1 {
+	width: 1250pt;
+	margin-left: 5pt;
+	position: absolute;
+	margin-top: 180pt;
+}
+
+img.afp {
+    width: 615pt;
+	margin-top: 1500pt;
+	margin-left: 5pt;
+	position:absolute;
+    
+}
+
+
+img.afp2 {
+    width: 615pt;
+	margin-top: 1500pt;
+	margin-left: 630pt;
+	position:absolute;
+    
+}
+
+
+img.a2 {
+	width: 350pt;
+	margin-top: 2500pt;
+	margin-left: 5pt;
+	position:absolute;
+}
+
+
+img.a3 {
+	width: 400pt;
+	margin-top: 2280pt;
+	margin-left: 110pt;
+	position:absolute;
+    margin-bottom: 100pt;
+}
+
+
+p2 {
+font-size: 13pt;
+font-family: Helvetica-Light;
+line-height: 1.2;
+    
+}
+
+.data {
+    position:absolute;
+    margin-top: 1040pt;
+    margin-left: 640pt;
+    width: 400pt;
+    color: grey;
+}
+
+.des1 {
+margin-top: 2550pt;
+margin-left: 110pt;
+position: absolute;
+width: 300pt;
+}
+
+h2  {
+margin-left: 640pt;
+margin-top: 995pt;
+position: absolute;
+font-family: Nitti-Normal;
+font-style: italic;
+font-size: 20pt;
+    
+}
+
+.box1 {
+margin-top: 1090pt;
+margin-left: 640pt;
+width: 500pt;
+position: absolute;
+}
+.box2 {
+margin-top: 2370pt;
+margin-left: 600pt;
+width: 500pt;
+position: absolute;
+}
+
+
+.box3 {
+margin-top: 1200pt;
+margin-left: 640pt;
+width: 500pt;
+position: absolute;
+margin-bottom: 100pt;
+}
+
+.title {
+	font-family: IBMPlexSans;
+	padding-left: 800px;
+	padding-top: 100px;
+}
+
+.pp {
+	width: 500px;
+	padding-left: 880px;
+	padding-top: 60px;
+	position: absolute;
+}
+
+.info {
+	padding-top: 280pt;
+	padding-left: 445pt;
+}
+
+
+hr.nav {
+  border-top: 1px solid black;
+    margin-left: 0pt;
+    width: 1200;
+}
+
+
+/*
+hr.nav2 {
+  border-top: 1px solid;
+    color: #d4d2d2;
+    margin-top: 20pt;
+    margin-left: 200pt;
+    width: 1200pt;
+    position: absolute;
+}
+*/
+h3  {
+margin-left: 810pt;
+margin-top: 995pt;
+position: absolute;
+font-family: Nitti-Normal;
+font-style: italic;
+font-size: 18pt;
+color: grey;   
+}
+
+
+h4 {
+    font-family: NeueHaasDisplay-Bold;
+    font-size: 30pt;
+    text-align: left;
+    word-spacing: 5px;
+    margin-left: 170pt;
+    margin-top: 110pt;
+    position: absolute;  }
+
+
+.mag {
+    margin-left: 350pt;
+    margin-top: 340pt;
+}
+
+.leg {
+    margin-left: 380pt;
+    margin-top: 410pt;
+}
+
+.sty {
+    margin-top: 2350pt;
+    margin-left: 600pt;
+    position: absolute;
+}
+
+p3 {
+    font-size: 15pt;
+    width: 200pt;
+    position: absolute;
+    font-family: Helvetica-Light;
+}
+
+
+
+
+
+

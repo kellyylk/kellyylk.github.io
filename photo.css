@@ -1,0 +1,56 @@
+.nostyle {
+    text-decoration: none;
+    color: black;
+}
+
+.one {
+    margin-top: 100pt;
+    margin-left: 100pt;
+    position:absolute;
+    
+}
+.two {
+    margin-top: 200pt;
+    margin-left: 750pt;
+    position:absolute;
+}
+
+.three {
+   margin-top: 590pt;
+    margin-left: 180pt;
+    position:absolute;
+  
+}
+
+.four {
+    margin-top: 618pt;
+    margin-left: 730pt;
+    position: absolute;
+    
+}
+
+.six {
+margin-top: 970pt;
+margin-left: 80pt; 
+position:absolute;
+    
+}
+.seven {
+margin-top: 1050pt;
+margin-left: 730pt;
+position:absolute;
+    
+}
+.eight {
+margin-top: 1450pt;
+margin-left: 150pt;
+position:absolute;
+}
+
+.nine {
+margin-top: 1490pt;
+margin-left: 710pt;
+position:absolute;
+margin-bottom: 100pt;
+}
+

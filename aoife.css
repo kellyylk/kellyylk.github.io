@@ -1,0 +1,114 @@
+body {
+background-color: #ffffff;
+}
+
+p {
+	font-family: Helvetica-Light;
+	font-size: 12pt;
+	padding-bottom: 100pt;
+	position: absolute;
+    line-height: 1.3;
+}
+
+.vid {
+position:absolute;
+margin-left: 450px;
+margin-top:220px;
+}
+
+
+p2 {
+font-size: 13pt;
+font-family: Helvetica-Light;
+line-height: 1.2;
+}
+
+.data {
+    position:absolute;
+    margin-top: 590pt;
+    margin-left: 350pt;
+    width: 400pt;
+    color: grey;
+}
+
+
+h2  {
+margin-left: 350pt;
+margin-top: 550pt;
+position: absolute;
+font-family: Nitti-Normal;
+font-style: italic;
+font-size: 20pt;
+    
+}
+
+.box1 {
+margin-top: 640pt;
+margin-left: 350pt;
+width: 590pt;
+position: absolute;
+}
+
+
+.title {
+	font-family: IBMPlexSans;
+	padding-left: 800px;
+	padding-top: 100px;
+}
+
+
+.info {
+	padding-top: 280pt;
+	padding-left: 445pt;
+}
+
+
+hr.nav {
+  border-top: 1px solid black;
+    margin-left: 0pt;
+    width: 1200;
+}
+
+
+/*
+hr.nav2 {
+  border-top: 1px solid;
+    color: #d4d2d2;
+    margin-top: 20pt;
+    margin-left: 200pt;
+    width: 1200pt;
+    position: absolute;
+}
+*/
+h3  {
+margin-left: 430pt;
+margin-top: 550pt;
+position: absolute;
+font-family: Nitti-Normal;
+font-style: italic;
+font-size: 18pt;
+color: grey;   
+}
+
+
+
+p3 {
+    font-size: 15pt;
+    width: 200pt;
+    position: absolute;
+    font-family: Helvetica-Light;
+}
+.rowone {
+    margin-left: 1pt;
+    margin-top: 860pt;
+
+}
+
+.r1 {
+    margin-left: 80pt;
+}
+
+.voi {
+    margin-top: 220pt;
+    margin-left: 50pt;
+}

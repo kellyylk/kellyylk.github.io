@@ -1,0 +1,168 @@
+body {
+background-color: #ffffff;
+}
+
+p {
+	font-family: Helvetica-Light;
+	font-size: 12pt;
+	padding-bottom: 100pt;
+	position: absolute;
+}
+
+
+img.af1 {
+	width: 1234pt;
+	margin-left: 5pt;
+	position: absolute;
+	margin-top: 180pt;
+}
+
+img.a2 {
+	width: 590pt;
+	margin-top: 1305pt;
+	margin-left: 5pt;
+	position:absolute;
+}
+
+img.a3 {
+	width: 629pt;
+	margin-top: 1305pt;
+	margin-left: 605pt;
+	position:absolute;
+}
+
+img.a5 {
+	width: 1235pt;
+	margin-top: 1760pt;
+	margin-left: 5pt;
+	position:absolute;
+    margin-bottom: 100pt;
+}
+
+
+h2  {
+margin-left: 150pt;
+margin-top: 1050pt;
+position: absolute;
+font-family: Nitti-Normal;
+font-style: italic;
+font-size: 20pt; 
+}
+
+h3  {
+margin-left: 255pt;
+margin-top: 1050pt;
+position: absolute;
+font-family: Nitti-Normal;
+font-style: italic;
+font-size: 18pt;
+color: grey;   
+}
+
+p2 {
+font-size: 12pt;
+font-family: Helvetica-Light;
+line-height: 1.2;
+}
+
+.data {
+    position:absolute;
+    margin-top: 1095pt;
+    margin-left: 150pt;
+    width: 400pt;
+    color: grey;
+}
+
+.box1 {
+margin-left: 630pt;
+margin-top: 1040pt;
+width: 570pt;
+position: absolute;
+}
+
+.box2 {
+margin-left: 610pt;
+margin-top:1040pt;
+width: 500pt;
+position: absolute;
+}
+
+.box3 {
+margin-top: 1770pt;
+margin-left: 50pt;
+width: 550pt;
+position: absolute;
+margin-bottom: 100pt;
+}
+
+.box4 {
+margin-top: 2410pt;
+margin-left: 655pt;
+width: 500pt;
+position: absolute;
+margin-bottom: 100pt;
+}
+
+.title {
+	font-family: IBMPlexSans;
+	padding-left: 800px;
+	padding-top: 100px;
+}
+
+.info {
+	padding-top: 280pt;
+	padding-left: 445pt;
+}
+
+
+/*
+hr.nav2 {
+  border-top: 1px solid;
+    color: #d4d2d2;
+    margin-top: 20pt;
+    margin-left: 200pt;
+    width: 1200pt;
+    position: absolute;
+}
+*/
+
+
+img.s1 {
+	width: 1235pt;
+	margin-top: 2580pt;
+	margin-left: 5pt;
+	position:absolute;
+    margin-bottom: 100pt;
+}
+
+img.s2 {
+	width: 1235pt;
+	margin-top: 3300pt;
+	margin-left: 5pt;
+	position:absolute;
+    margin-bottom: 100pt;
+}
+p3 {
+    font-size: 15pt;
+    width: 200pt;
+    position: absolute;
+    font-family: Helvetica-Light;
+}
+
+
+.sty {
+    margin-top: 1750pt;
+    margin-left: 50pt;
+    position: absolute;
+}
+
+.us {
+    margin-top: 2390pt;
+    margin-left: 655pt;
+    position: absolute;
+}
+
+
+
+
+

@@ -1,0 +1,87 @@
+.nostyle {
+    text-decoration: none;
+    color: black;
+}
+
+.rowone {
+    margin-left: 10pt;
+    margin-top:115pt;
+    position: static;
+}
+
+.r1 {
+    margin-left: 50pt;
+    position: absolute;
+}
+
+.rowone:hover {
+  transform: scale(1.08); 
+  transition: transform .3s;
+  transition-timing-function: ease-in-out;
+}
+
+.r2 {
+    margin-left: 400pt;
+    position: absolute;
+}
+
+.r3 {
+    margin-left: 800pt;
+    position: absolute;
+}
+
+.r4 {
+    margin-top: 280pt;
+    margin-left: 50pt;
+    margin-bottom: 100pt;
+    position:absolute;
+}
+.r5 {
+    margin-top: 280pt;
+    margin-left: 455pt;
+    margin-bottom: 100pt;
+    position: absolute;
+}
+.r6 {
+    margin-top: 280pt;
+    margin-left: 835pt;
+    margin-bottom: 100pt;
+    position: absolute;
+}
+.r7 {
+    margin-top: 560pt;
+    margin-left: 50pt;
+    margin-bottom: 100pt;
+    position: absolute;
+}
+
+.r8 {
+    margin-top: 560pt;
+    margin-left: 295pt;
+    margin-bottom:100pt;
+    position: absolute;
+}
+
+.r9 {
+    margin-top: 560pt;
+    margin-left: 575pt;
+    margin-bottom: 100pt;
+    position: absolute;
+}
+
+p {
+    position:absolute;
+    font-family: Nitti-Normal;
+    text-decoration-style: none;
+    color: grey;
+    font-size: 13pt;}
+
+.t1 {
+    margin-top: 330pt;
+    margin-left:10pt;
+}
+
+.t2 {
+    margin-top: 350pt;
+    margin-left:10pt;
+}

@@ -1,0 +1,131 @@
+body {
+background-color: #ffffff;
+}
+
+
+h2 {
+    font-size: 40pt;
+    margin-left: 390pt;
+    margin-top: 150pt;
+    font-family: IBMPlexSans;
+    position: absolute;
+}
+.tex {
+    display:none;
+    width:500pt;
+     text-decoration-style: none;
+    color: black;
+    font-size: 12pt;
+}
+
+.wrapper.fade.tex {
+    margin-bottom: 350pt;
+    display:none;
+    position: absolute;
+    text-decoration-style: none;
+}
+.wrapper.fade:hover .tex{
+    display:block;
+    position: absolute;
+    margin-bottom: 350pt;
+    margin-top: 270pt;
+    font-family: Nitti-Normal;
+     text-decoration-style: none;
+}
+
+.tone {
+    margin-top: 90pt;
+    margin-left: 210pt;
+    position:absolute;
+}
+
+section.ttwo {
+ margin-top: 410pt;
+    margin-left: 90pt;
+    position:absolute;  
+}
+
+section.tthree {
+   margin-top: 180pt;
+    margin-left: 820pt;
+    position:absolute;
+}
+
+
+section img {
+  position: absolute;
+}
+
+.wrapper.fade img:hover {
+    opacity: 0;
+    position:absolute;
+}
+
+.wrapper img {
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    transition: 0.5s;
+    display: block;
+    position:absolute;
+}
+
+.wrapper.fade img {
+    position: absolute;
+}
+
+
+/*
+hr.nav2 {
+  border-top: 1px solid;
+    color: #d4d2d2;
+    margin-top: 20pt;
+    margin-left: 200pt;
+    width: 1200pt;
+    position: absolute;
+}
+*/
+
+
+p {
+	font-family: Helvetica-Light;
+	font-size: 13pt;
+	padding-left: 600pt;
+	margin-top: 50pt;
+	position: absolute;
+	display: absolute;
+    width: 480pt;
+    text-indent: 2em;
+}
+
+.p2 {
+	font-family: Helvetica-Light;
+	font-size: 13pt;
+	margin-top: 60pt;
+	position: absolute;
+	display: absolute;
+    width: 480pt;
+    text-indent: 2em;
+}
+
+
+
+.prj3 {
+   margin-top: 530pt;
+    margin-left: 720pt;
+    position:absolute;
+}
+
+
+.prj4 {
+    margin-top: 750pt;
+    margin-left: 250pt;
+    position:absolute;
+   margin-bottom: 100pt;
+}
+.mb {
+    margin-bottom: 100pt;
+}
+
+
+
+
