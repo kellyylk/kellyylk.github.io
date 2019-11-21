@@ -5,6 +5,22 @@
     <link rel = "stylesheet" type = "text/css" href= "navigation.css">
   <link rel = "stylesheet" type = "text/css" href= "emr.css">
       <link rel = "stylesheet" type = "text/css" href= "navbar.css">
+       <title>Empyrean Mountain Retreat</title>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+<meta charset="UTF-8">
+
+<script>
+$(document).ready(function(){
+    $.get( "https://spreadsheets.google.com/feeds/cells/1ecrDfhIn2F1AaIB78xOkGhbBo0JchaYUPdnVPqJ-AmQ/1/public/full?alt=json", function( data ) {
+  $( ".result" ).html( data );
+  console.log(data)
+  document.getElementById("jsonRemote").innerHTML = data.feed.entry[4].content.$t;
+document.getElementById("json2").innerHTML = data.feed.entry[5].content.$t;
+        document.getElementById("json3").innerHTML = data.feed.entry[6].content.$t;
+        document.getElementById("json4").innerHTML = data.feed.entry[7].content.$t;
+}); });
+</script>
 </head>
 
 
@@ -27,7 +43,7 @@
     <h3> (2019)</h3>
     <img src = "projectpics/emr.png" class = "af1"> 
 	<div class = "box1">
-	<p> This is a project to investigate how a virtual space can be built harmoniously to give an atmosphere that is calm and introspective for users. The progression of how the home is constructed is based off of the different purposes as well as experiences that each room serves. The purpose is to guide the user subsequently through the space.
+	<p id = "jsonRemote">
 </p>
     </div>
        <div class = "data"> 
@@ -38,15 +54,13 @@
     
 
 <div class = "box2">
-	<p>
-       Various objects are spread out through the rooms, giving the user the freedom to explore and interact. There is a room with clickable books and texts, a room that includes a meditative exercise, a delicate garden full of ferns and flora, and a room to self-reflect.
+	<p id = "json2">
     </p> </div>
     
 
 	<img src = "projectpics/emr1.jpg" class = "a2"> 
     <img src = "projectpics/emrmodel.png" class = "a3"> 
-    <div class = "box3"><p>
-        In terms of the style, I took inspiration from modern architecture, 3D modelling the house on Rhino. Architecture itself is an art form, and the composition of certain structures have always attracted me. But rather than just its appeal, I find that the essence of these large structures are placid. The empty spaces that the architecture envelops gives the availability to contemplate.
+    <div class = "box3"><p id = "json3">
         </p>  </div>
     
     <div class = "sty">
@@ -59,8 +73,7 @@
      <div class = "us">
     <p3>User Testing</p3></div>
      <div class = "box4">
-        <p>
-        I conducted a user-testing session to further develop my research. What I realized is that some users have no interest to self-reflect because they simply believe that they don’t have to. This experience is for people who want to find a quiet place to ponder, and my audience is for people who wish to have an intimate and calm moment with themselves. </p> </div>
+        <p id = "json4"> </p> </div>
     
     
     <img src = "projectpics/lib.png" class = "s1">
