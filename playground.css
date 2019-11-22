@@ -1,6 +1,6 @@
 @font-face { font-family: Nitti-Normal; src: url('fonts/Nitti-Normal.ttf'); } 
 @font-face { font-family: IBMPlexSans-Regular; src: url('fonts/IBMPlexSans-Regular.ttf'); } 
-@font-face { font-family: IBMPlexSans-Bold; src: url('fonts/IBMPlexSans-Bold.ttf'); } 
+@font-face { font-family: IBMPlexSans-Medium; src: url('fonts/IBMPlexSans-Medium.ttf'); } 
 @font-face { font-family: NeueHaasDisplay-Medium; src: url('fonts/NeueHaasDisplay-Medium.ttf'); } 
 
 body {margin:0;}
@@ -16,7 +16,7 @@ h2 {
     margin-left: 130pt;
     margin-top: 110pt;
     margin-bottom: 50pt;
-    font-family: IBMPlexSans-Medium;
+    font-family: IBMPlexSans-Regular;
 }
 .bio {
     margin-left: -200pt;

@@ -1,11 +1,12 @@
 @font-face { font-family: Nitti-Normal; src: url('fonts/Nitti-Normal.ttf'); } 
 @font-face { font-family: IBMPlexSans-Regular; src: url('fonts/IBMPlexSans-Regular.ttf'); } 
+@font-face { font-family: IBMPlexSans-Medium; src: url('fonts/IBMPlexSans-Medium.ttf'); } 
 @font-face { font-family: IBMPlexSans-Bold; src: url('fonts/IBMPlexSans-Bold.ttf'); } 
 @font-face { font-family: NeueHaasDisplay-Medium; src: url('fonts/NeueHaasDisplay-Medium.ttf'); } 
 
 h1 {
 	color: black;
-	font-family: IBMPlexSans-Bold;
+	font-family: IBMPlexSans-Medium;
 	font-size: 33px;
 	margin-top: 90px;
 	margin-left: -60px;
