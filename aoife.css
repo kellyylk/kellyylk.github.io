@@ -1,3 +1,7 @@
+@font-face { font-family: Nitti-Normal; src: url('fonts/Nitti-Normal.ttf'); } 
+@font-face { font-family: IBMPlexSans-Regular; src: url('fonts/IBMPlexSans-Regular.ttf'); } 
+@font-face { font-family: IBMPlexSans-Bold; src: url('fonts/IBMPlexSans-Bold.ttf'); } 
+@font-face { font-family: NeueHaasDisplay-Medium; src: url('fonts/NeueHaasDisplay-Medium.ttf'); } 
 body {
 background-color: #ffffff;
 }
@@ -19,7 +23,7 @@ margin-top:220px;
 
 p2 {
 font-size: 13pt;
-font-family: Helvetica-Light;
+font-family: Helvetica;
 line-height: 1.2;
 }
 
@@ -36,7 +40,7 @@ h2  {
 margin-left: 350pt;
 margin-top: 550pt;
 position: absolute;
-font-family: Nitti-Normal;
+font-family: Nitti-Bold;
 font-style: italic;
 font-size: 20pt;
     
@@ -48,14 +52,6 @@ margin-left: 350pt;
 width: 590pt;
 position: absolute;
 }
-
-
-.title {
-	font-family: IBMPlexSans;
-	padding-left: 800px;
-	padding-top: 100px;
-}
-
 
 .info {
 	padding-top: 280pt;
@@ -96,7 +92,7 @@ p3 {
     font-size: 15pt;
     width: 200pt;
     position: absolute;
-    font-family: Helvetica-Light;
+    font-family: Helvetica;
 }
 .rowone {
     margin-left: 1pt;
